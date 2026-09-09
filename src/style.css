@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Mangat";
+  src: url("/fonts/mangat.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html, body {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+  font-family: "Mangat", sans-serif;
+}
