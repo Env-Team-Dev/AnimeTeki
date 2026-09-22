@@ -3,7 +3,7 @@
 Landing page interaktif bertema anime dan manga dengan estetika monokrom. Platform ini menyediakan 3 mode permainan seputar pengetahuan waifu dan karakter anime.
 
 ## Mode Permainan
-- Tebak Waifu: Uji pengetahuan trivia seputar waifu favorit.
+- Tebak Karakter Anime: Uji pengetahuan trivia seputar karakter.
 - Tes Kecocokan: Cari tahu waifu yang cocok dengan kepribadian kamu.
 - Who Is It?: Tebak karakter dari siluet atau potongan gambar.
 
